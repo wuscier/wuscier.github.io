@@ -1,2 +1,3 @@
 name: Wu Xu, Wall Street English Student
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
